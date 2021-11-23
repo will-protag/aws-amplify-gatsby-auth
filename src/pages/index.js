@@ -12,6 +12,7 @@ const IndexPage = () => (
     <p>Welcome to the Protagonist Studios download portal!</p>
     <Link to="/app/login">Sign In</Link><br />
     <Link to="/app/home">Home</Link><br />
+    <Link to="/app/downloads">Downloads</Link><br />
     <Link to="/app/profile">Your profile</Link>
   </Layout>
 )
